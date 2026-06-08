@@ -101,17 +101,15 @@ I build production infrastructure the right way — structured, documented, and 
 
 ## 🗺️ What I'm Working On
 
-python
-current_focus = {
-    "role"     : "Network Engineer @ Agni Systems PLC",
-    "building" : ["Network automation with Python + Netmiko",
-                  "SNMP-based monitoring dashboard",
-                  "ISP config templates for MikroTik"],
-    "learning" : ["Network Security", "Python scripting", "Linux administration"],
-    "next"     : "MSc Cybersecurity — Pursuing admission for 2026/27",
-    "open_to"  : "Senior network roles | Security-focused infrastructure | Remote/Hybrid"
-}
-
+| | |
+|---|---|
+| 🏢 *Role* | Network Engineer @ Agni Systems PLC |
+| 🔧 *Building* | Network automation with Python + Netmiko |
+| 📊 *Building* | SNMP-based monitoring dashboard |
+| 📋 *Building* | ISP config templates for MikroTik |
+| 📚 *Learning* | Network Security · Python scripting · Linux administration |
+| 🎯 *Next* | MSc Cybersecurity — Pursuing admission for 2026/27 |
+| 💼 *Open To* | Senior network roles · Security-focused infrastructure · Remote/Hybrid |
 
 ---
 
