@@ -103,13 +103,13 @@ I build production infrastructure the right way — structured, documented, and 
 
 python
 current_focus = {
-    "role"        : "Network Engineer @ Agni Systems PLC",
-    "building"    : ["Network automation with Python + Netmiko",
-                     "SNMP-based monitoring dashboard",
-                     "ISP config templates for MikroTik"],
-    "learning"    : ["Network Security", "Python scripting", "Linux administration"],
-    "next"        : "MSc Cybersecurity — Pursuing admission for 2026/27",
-    "open_to"     : "Senior network roles | Security-focused infrastructure | Remote/Hybrid"
+    "role"     : "Network Engineer @ Agni Systems PLC",
+    "building" : ["Network automation with Python + Netmiko",
+                  "SNMP-based monitoring dashboard",
+                  "ISP config templates for MikroTik"],
+    "learning" : ["Network Security", "Python scripting", "Linux administration"],
+    "next"     : "MSc Cybersecurity — Pursuing admission for 2026/27",
+    "open_to"  : "Senior network roles | Security-focused infrastructure | Remote/Hybrid"
 }
 
 
