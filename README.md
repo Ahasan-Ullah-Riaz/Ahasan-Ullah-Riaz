@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Ahasan%20Ullah%20Riaz&fontSize=42&fontColor=58a6ff&fontAlignY=38&desc=Network%20Infrastructure%20Engineer&descAlignY=58&descColor=8b949e&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Ahasan%20Ullah%20Riaz&fontSize=42&fontColor=58a6ff&fontAlignY=38&desc=Network%20Engineer&descAlignY=58&descColor=8b949e&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -22,18 +22,18 @@
 
 ## 👨‍💻 About Me
 
-
+```
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │  Network Engineer @ Agni Systems PLC (ISP & Enterprise) · Since 2023        │
 │  BSc CSE — American International University Bangladesh (AIUB)               │
 │  MSc Cybersecurity — Pursuing admission for 2026/27                         │
 │  Focus: Infrastructure Design · Network Security · Automation               │
 └──────────────────────────────────────────────────────────────────────────────┘
-
+```
 
 Most network problems are not mysterious. They are the result of shortcuts taken during design, configurations that were never properly tested, or engineers who treat symptoms instead of causes.
 
-I build production infrastructure the right way — structured, documented, and designed to scale. Currently deepening my expertise toward *network security and infrastructure hardening*, with an MSc in Cybersecurity ahead.
+I build production infrastructure the right way — structured, documented, and designed to scale. Currently deepening my expertise toward **network security and infrastructure hardening**, with an MSc in Cybersecurity ahead.
 
 ---
 
@@ -41,7 +41,7 @@ I build production infrastructure the right way — structured, documented, and 
 
 <div align="center">
 
-### Networking & Infrastructure
+### Networking
 ![MikroTik](https://img.shields.io/badge/MikroTik_RouterOS-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cambium](https://img.shields.io/badge/Cambium_Networks-00A651?style=for-the-badge&logoColor=white)
@@ -66,6 +66,9 @@ I build production infrastructure the right way — structured, documented, and 
 
 ### Certifications
 ![OCNA](https://img.shields.io/badge/OCNA-Routing_%26_Switching-00B0F0?style=for-the-badge&logo=tp-link&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA-Cisco_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![MTCNA](https://img.shields.io/badge/MTCNA-MikroTik_Certified-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![MikroTik ISP](https://img.shields.io/badge/MikroTik-ISP_%26_OLT_Setup-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 
 </div>
 
@@ -103,13 +106,13 @@ I build production infrastructure the right way — structured, documented, and 
 
 | | |
 |---|---|
-| 🏢 *Role* | Network Engineer @ Agni Systems PLC |
-| 🔧 *Building* | Network automation with Python + Netmiko |
-| 📊 *Building* | SNMP-based monitoring dashboard |
-| 📋 *Building* | ISP config templates for MikroTik |
-| 📚 *Learning* | Network Security · Python scripting · Linux administration |
-| 🎯 *Next* | MSc Cybersecurity — Pursuing admission for 2026/27 |
-| 💼 *Open To* | Senior network roles · Security-focused infrastructure · Remote/Hybrid |
+| 🏢 **Role** | Network Engineer @ Agni Systems PLC |
+| 🔧 **Building** | Network automation with Python + Netmiko |
+| 📊 **Building** | SNMP-based monitoring dashboard |
+| 📋 **Building** | ISP config templates for MikroTik |
+| 📚 **Learning** | Network Security · Python scripting · Linux administration |
+| 🎯 **Next** | MSc Cybersecurity — Pursuing admission for 2026/27 |
+| 💼 **Open To** | Senior network roles · Security-focused infrastructure · Remote/Hybrid |
 
 ---
 
@@ -120,7 +123,7 @@ I build production infrastructure the right way — structured, documented, and 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahasan-ullah-riaz)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahasunr@gmail.com)
 
-I am open to conversations about serious infrastructure roles where the technical bar is high and the work actually matters.
+*I am open to conversations about serious infrastructure roles where the technical bar is high and the work actually matters.*
 
 </div>
 
